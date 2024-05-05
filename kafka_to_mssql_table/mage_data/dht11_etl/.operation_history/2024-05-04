@@ -1,0 +1,1 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "kafka_to_sql"}, "timestamp": 1714860634, "user": null}
