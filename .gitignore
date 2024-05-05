@@ -5,3 +5,4 @@ kafka_to_mssql_table/*/.cache/*
 *.log
 *.cache
 *.log.*
+*.db
